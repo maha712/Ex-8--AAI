@@ -54,3 +54,4 @@ except Exception as e:
 ![8](https://github.com/user-attachments/assets/19e2a044-b9a2-4b0b-9cd9-e213d46575be)
 
 <H3> Result:</H3>
+Thus, The implementation of speech recognition is executed successfully.
